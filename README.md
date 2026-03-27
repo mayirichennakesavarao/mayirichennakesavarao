@@ -8,8 +8,7 @@
 ## 🚀 About Me  
 💡 Strong in **Data Structures & Algorithms (Java)**  
 🔥 Solved **120+ LeetCode problems**  
-🌱 Currently learning **DevOps & Cloud**  
-🛠️ Building real-world projects like **AgriSetu**  
+🧠 Built **ML Hackathon Project (Geospatial Intelligence)**   
 🎯 Goal: Crack **Top Product-Based Companies**  
 
 ---
@@ -33,42 +32,45 @@
 
 ### ⚛️ Frameworks & Tools  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ---
 
 ## 🚀 Projects  
-### 🧠 ML Hackathon Project – Image Classification System  
-- Built a **multi-class classification model** for real-world dataset  
-- Extracted advanced features (FFT, Wavelets, Texture)  
-- Compared **Machine Learning vs Neural Networks performance**  
-- Achieved high accuracy with optimized model tuning  
+
+### 🧠 ML Hackathon Project – Geospatial Intelligence  
+- Developed a **multi-class image classification system** using satellite imagery  
+- Applied **feature extraction techniques**: FFT, Wavelets, Texture features  
+- Compared **ML models vs Neural Networks** for performance evaluation  
+- Improved model accuracy through **feature engineering & tuning**  
 - Tech: Python, Scikit-learn, NumPy, OpenCV  
 
-🔗[ https://github.com/mayirichennakesavarao/YOUR-REPO-LINK](https://github.com/mayirichennakesavarao/SVAMITVA-Geospatial-Intelligence.git)
+🔗 https://github.com/mayirichennakesavarao/SVAMITVA-Geospatial-Intelligence.git  
+
+---
 
 ### 🌱 AgriSetu – Farmer Marketplace  
-- Direct farmer-to-consumer platform  
-- Product listing, order system, payment UI  
-- Tech: HTML, CSS, JS, Spring Boot, MySQL  
+- Built a **farmer-to-consumer platform** eliminating middlemen  
+- Features: Product listing, order system, payment interface  
+- Tech: HTML, CSS, JavaScript, Spring Boot, MySQL  
 
 ---
 
 ### 🚌 College Bus Tracking System  
-- Real-time location tracking  
-- Admin, Driver, Student modules  
-- Built with JavaScript & Geolocation  
+- Developed a **real-time tracking system** using geolocation  
+- Includes Admin, Driver, and Student modules  
+- Tech: HTML, CSS, JavaScript  
 
 ---
 
 ### 🤖 Crop Prediction System  
-- ML-based crop recommendation  
-- Built using Python & Streamlit  
+- Built an ML model for **crop recommendation**  
+- Used agricultural data for prediction  
+- Tech: Python, Streamlit  
 
 ---
-
 
 ## 🏆 GitHub Achievements  
 
@@ -80,11 +82,5 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mayirichennakesavarao&theme=tokyo-night)
 
----
 
-## 👀 Profile Views  
-
-![](https://visitcount.itsvg.in/api?id=mayirichennakesavarao&icon=5&color=6)
-
----
 
