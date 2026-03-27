@@ -69,15 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=mayirichennakesavarao&theme=tokyonight&hide_border=true&show_icons=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=mayirichennakesavarao&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayirichennakesavarao&theme=tokyonight&hide_border=true&layout=compact)
-
----
 
 ## 🏆 GitHub Achievements  
 
@@ -97,9 +88,3 @@
 
 ---
 
-## ⚡ Fun Fact  
-💻 I love solving problems & building impactful projects 🚀  
-
----
-
-⭐ **If you like my work, consider giving a star!**
